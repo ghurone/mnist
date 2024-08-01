@@ -1,7 +1,3 @@
-Aqui está uma descrição aprimorada para o seu projeto no GitHub:
-
----
-
 # MNIST Digit Recognizer
 
 This Streamlit application allows users to draw and recognize handwritten digits using a trained deep learning model. The app provides an interactive canvas where you can draw digits from 0 to 9 and get real-time predictions with confidence levels.
